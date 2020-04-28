@@ -21,7 +21,7 @@ But if you did it anyway and you're back here looking for help...
 You'll need to rename or delete your ModsConfig.xml file.  This resets your modlist, and the next time RimWorld starts, it will do so with no mods, just as if auto-reset was enabled.
 
 Windows:
-`C:\Users\<USERNAME>\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\ModsConfig.xml`
+`C:\Users\USERNAME\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\ModsConfig.xml`
 
 Mac:
 (I don't know!  I will update this when I find out.)
@@ -30,7 +30,7 @@ Linux:
 (I don't know!  I will update this when I find out.)
 
 [h1]Compatibility[/h1]
-- Compatible with RimWorld **v1.1** (including the **Royalty** DLC).
+- Compatible with RimWorld v1.1 (including the Royalty DLC).
 - No known incompatibilities.
 
 [h1]Notes[/h1]
