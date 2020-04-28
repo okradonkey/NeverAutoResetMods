@@ -32,6 +32,8 @@ Mac:
 Linux:
 (I don't know!  I will update this when I find out.)
 
+If you get stuck and need help, go to the #troubleshooting channel on the RimWorld Discord and ask for help resetting ModsConfig.xml.
+
 ### Compatibility
 - Compatible with RimWorld **v1.1** (including the **Royalty** DLC).
 - No known incompatibilities.
