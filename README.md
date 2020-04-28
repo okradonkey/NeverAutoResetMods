@@ -44,7 +44,7 @@ Linux:
 
 # Installation
 Add _Never Auto-reset Mods_ anywhere in your load order.
-- Subscribe at the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=XXX)
+- Subscribe at the [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=2076921732)
 
  _or_
 
