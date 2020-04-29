@@ -45,10 +45,10 @@ Windows:
 `C:\Users\USERNAME\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios\Config\ModsConfig.xml`
 
 Mac:
-(I don't know.  I will update this when I find out.)
+`~/Library/Application Support/RimWorld/Config/ModsConfig.xml`
 
 Linux:
-(I don't know.  I will update this when I find out.)
+`~/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios/Config/ModsConfig.xml`
 
 If you get stuck and need help, go to the #troubleshooting channel on
 the RimWorld Discord and ask for help resetting ModsConfig.xml.
