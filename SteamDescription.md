@@ -32,7 +32,7 @@ Linux:
 If you get stuck and need help, go to the #troubleshooting channel on the RimWorld Discord and ask for help resetting ModsConfig.xml.
 
 [h1]Compatibility[/h1]
-- Compatible with RimWorld v1.1 (including the Royalty DLC).
+- Compatible with RimWorld v1.1 and v1.2 (including the Royalty DLC).
 - No known incompatibilities.
 
 [h1]Notes[/h1]

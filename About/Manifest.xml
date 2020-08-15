@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
     <identifier>OkraDonkey.NeverAutoResetMods</identifier>
-    <version>0.1.10.20119</version>
+    <version>0.2.2.20228</version>
     <showCrossPromotions>false</showCrossPromotions>
     <manifestUri>https://github.com/okradonkey/NeverAutoResetMods/raw/master/About/Manifest.xml</manifestUri>
     <downloadUri>https://github.com/okradonkey/NeverAutoResetMods/releases/latest</downloadUri>
